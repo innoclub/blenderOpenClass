@@ -1,3 +1,3 @@
 # blenderOpenClass
 
-Bilibili
+【Bilibili】
